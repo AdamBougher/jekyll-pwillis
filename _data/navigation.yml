@@ -1,6 +1,6 @@
 # the masthead
 main:
-  - title: "Home"
+  - title: "landing"
     url: /
   - title: "Curriculum Vitae"
     url: /assets/docs/Mission.pdf
