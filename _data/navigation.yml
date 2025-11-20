@@ -12,8 +12,8 @@ main:
     url: /links/
   - title: "Contact"
     url: /contact/
-  # - title: "Blog"
-  #   url: /blog/
+  - title: "Blog"
+    url: /blog/
 
 # sidebar for portfolio
 portfolio:
