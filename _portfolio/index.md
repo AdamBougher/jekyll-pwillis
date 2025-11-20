@@ -18,3 +18,6 @@ Mission III, H. Husky, "The Impact of Mascot Presence on Athletic Performance: A
   
 Mission III, J. Trainer, "Bark vs. Bite: Comparing Auditory and Visual Mascot Techniques for Maximum Crowd Engagement." Keywords: mascot techniques, crowd psychology, auditory stimuli, visual cues, sports marketing.
 [Download File]({{ site.baseurl }}/assets/docs/MissionJMP.pdf)
+
+<h2>POST</h2>
+[post](https://adambougher.github.io/jekyll-pwillis/_posts/2017-06-06-netcomp.md)
